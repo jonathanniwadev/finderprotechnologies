@@ -70,7 +70,7 @@ const AppShowcase = () => {
                                     alt="AI-Interview Platform"
                                 />
                             </div>
-                            <h2>Rehearsify - AI-Powered Interview Practice</h2>
+                            <h2>Rehearsify - AI-Powered Interview Practice </h2>
                             <p className="text-white-50 md:text-xl">
                                 Rehearsify helps job seekers practice interviews with AI — simulating real questions, giving instant feedback, and boosting confidence.
                             </p>
