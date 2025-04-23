@@ -44,7 +44,7 @@ const Contact = () => {
             <div className="w-full h-full md:px-10 px-5">
                 <TitleHeader
                     title="Let’s Build Something Great"
-                    sub="💬 Reach out to discuss your idea, request a demo, or start a project with us."
+                    sub="💬 Message us to build, demo, or explore your idea!"
                 />
 
                 <div className="grid-12-cols mt-16">
